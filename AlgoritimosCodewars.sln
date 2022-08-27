@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextStats", "TextStats\Text
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryInterval", "BinaryInterval\BinaryInterval.csproj", "{F7556EFE-50F7-42A7-8EFE-FF5926F27A23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOutSequence", "NumberOutSequence\NumberOutSequence.csproj", "{11C0F4D5-AFDC-4051-B7FA-8C3D7CB3222F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F7556EFE-50F7-42A7-8EFE-FF5926F27A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7556EFE-50F7-42A7-8EFE-FF5926F27A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7556EFE-50F7-42A7-8EFE-FF5926F27A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C0F4D5-AFDC-4051-B7FA-8C3D7CB3222F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C0F4D5-AFDC-4051-B7FA-8C3D7CB3222F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C0F4D5-AFDC-4051-B7FA-8C3D7CB3222F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C0F4D5-AFDC-4051-B7FA-8C3D7CB3222F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
